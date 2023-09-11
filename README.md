@@ -1,19 +1,24 @@
-### Hi there 👋
+# About me
+Hello, I'm Marcin, a computer hardware and computer networks enthusiast.
+My journey into the world of programming began with self-study, where I started with Python and Git. 
+Eager to expand my skills, I embarked on a year-long programming course.
 
-<!--
-**marcinstodolny/marcinstodolny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+At the beginning of the course, I expanded my knowledge of Python and PostgreSQL, and over time, I expanded my skills to include JS, HTML, CSS, MySQL and MSSQL.
+My primary programming languages became C#, which I now utilize in the EquipWatch project.
+Collaboration was a key part of my journey, as I frequently worked in groups.
+This experience taught me valuable lessons like how to work with Agile by divide tasks into sprints and Scrum, where we rotated the role of Scrum Master. 
 
-Here are some ideas to get you started:
+From day one, I've prioritized best practices such as meaningful class and function names, 
+utilizing branches for distinct features and providing clear commit descriptions.
+
 
 - 🔭 I’m currently looking for a job as a Full-Stack Software Developer or C#/.NET Developer.
-- 🌱 I’m currently learning C#/.NET
-- 👯 I’m looking to collaborate on Web Application projects.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: www.linkedin.com/in/marcin-stodolny
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning C#/.NET by developing EquipWatch project.
+- 👯 I’m looking to collaborate on Web Application projects / backend project that use c# or Python.
+- 💬 Feel free to ask me about Computer Hardware, Computer Networks.
+- 📫 You can reach me by www.linkedin.com/in/marcin-stodolny.
+- ⚡ Fun fact: I am a motor vehicle technician.
+
 # Technologies and Tools:
 
 ## Backend
@@ -63,7 +68,7 @@ Here are some ideas to get you started:
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
+#
 ![codewars](https://www.codewars.com/users/Marcin%20Stodolny/badges/large)
 
 

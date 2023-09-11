@@ -3,7 +3,7 @@ Hello, I'm Marcin, a computer hardware and computer networks enthusiast.
 My journey into the world of programming began with self-study, where I started with Python and Git. 
 Eager to expand my skills, I embarked on a year-long programming course.
 
-At the beginning of the course, I expanded my knowledge of Python and PostgreSQL, and over time, I expanded my skills to include JS, HTML, CSS, MySQL and MSSQL.
+At the beginning of the course, I expanded my knowledge of Python and PostgreSQL, and over time, I expanded my skills to also include C#, JS, HTML, CSS, MySQL and MSSQL.
 My primary programming languages became C#, which I now utilize in the EquipWatch project.
 Collaboration was a key part of my journey, as I frequently worked in groups.
 This experience taught me valuable lessons like how to work with Agile by divide tasks into sprints and Scrum, where we rotated the role of Scrum Master. 

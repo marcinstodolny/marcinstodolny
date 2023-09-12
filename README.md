@@ -7,7 +7,7 @@ At the beginning of the course, I expanded my knowledge of Python and PostgreSQL
 My primary programming languages became C#, which I now utilize in the EquipWatch project.  
 
 Collaboration and communication was a key part of my journey, as I frequently worked in groups with different people.  
-This experience taught me valuable lessons like how to work with Agile by divide tasks into sprints and Scrum, where we rotated the role of Scrum Master.   
+This experience taught me valuable lessons like how to work with Agile by divide tasks into sprints and Scrum practices, where we rotated the role of Scrum Master.   
 
 From day one, I've prioritized best practices such as meaningful class and function names, 
 utilizing branches for distinct features and providing clear commit descriptions.

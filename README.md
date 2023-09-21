@@ -43,7 +43,7 @@ utilizing branches for distinct features and providing clear commit descriptions
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![dbdiagram](https://img.shields.io/badge/dbdiagram-005F9E?style=for-the-badge&logo=dbdiagram&logoColor=white)
+![dbdiagram](https://img.shields.io/badge/dbdiagram-005F9E?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 
 ## Deployment
 

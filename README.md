@@ -1,8 +1,12 @@
 # About me
 Hello, I'm Marcin, Backend-focused .NET Developer with 1.5 years of commercial experience
+
 building web applications and RESTful APIs using C#, ASP.NET Core, and SQL.
+
 I work well in Agile environments that value clean code and continuous improvement.
+
 I enjoy solving problems, automating tasks, and ensuring my solutions are easy to maintain.
+
 With a strong IT background and a habit of learning new things, I aim to build systems that are reliable and easy to extend.
 
 

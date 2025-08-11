@@ -1,16 +1,9 @@
 # About me
-Hello, I'm Marcin, an optimistic computer hardware and computer networks enthusiast.  
-My journey into the world of programming began with self-study, where I started with Python and Git.  
-Eager to expand my skills, I embarked on a year-long programming course.
-
-At the beginning of the course, I expanded my knowledge of Python and PostgreSQL, and over time, I expanded my skills to also include C#, JS, HTML, CSS, MySQL and MSSQL.  
-My primary programming languages became C#, which I now utilize in projects like EquipWatch.  
-
-Collaboration and communication was a key part of my journey, as I frequently worked in groups with different people.  
-This experience taught me valuable lessons like how to work with Agile by divide tasks into sprints and Scrum practices, where we rotated the role of Scrum Master.   
-
-From day one, I've prioritized best practices such as meaningful class and function names, 
-utilizing branches for distinct features and providing clear commit descriptions.
+Hello, I'm Marcin, Backend-focused .NET Developer with 1.5 years of commercial experience
+building web applications and RESTful APIs using C#, ASP.NET Core, and SQL.
+I work well in Agile environments that value clean code and continuous improvement.
+I enjoy solving problems, automating tasks, and ensuring my solutions are easy to maintain.
+With a strong IT background and a habit of learning new things, I aim to build systems that are reliable and easy to extend.
 
 
 - 🔭 I’m currently looking for a job as a Full-Stack Software Developer or C#/.NET Developer.

@@ -1,11 +1,11 @@
 # About me
-Hello, I'm Marcin, Backend-focused .NET Developer with 1.5 years of commercial experience
+Hello, I'm Marcin, Backend-focused .NET Developer specializing in ASP.NET Core and PostgreSQL
 
-building web applications and RESTful APIs using C#, ASP.NET Core, and SQL.
+Experienced in building REST APIs and concurrency-safe background jobs using EF Core, Dapper, MediatR, and FluentValidation
 
-I work well in Agile environments that value clean code and continuous improvement.
+Skilled in domain modeling with DDD and Clean Architecture, with hands-on practice in Azure Blob integrations, automated testing (xUnit/Moq), and Docker-based deployments.
 
-I enjoy solving problems, automating tasks, and ensuring my solutions are easy to maintain.
+I focus on maintainable design, reliable data access, and smooth delivery in Agile environments.
 
 With a strong IT background and a habit of learning new things, I aim to build systems that are reliable and easy to extend.
 

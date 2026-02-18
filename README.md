@@ -11,7 +11,7 @@ With a strong IT background and a habit of learning new things, I aim to build s
 
 
 - 🔭 I’m currently looking for a job as a Full-Stack Software Developer or C#/.NET Developer.
-- 🌱 I’m currently learning C#/.NET by developing EquipWatch project.
+- 🌱 I’m currently learning C#/.NET by developing TaskHub project.
 - 👯 I’m looking to collaborate on Web Application projects / backend project that use c# or Python.
 - 💬 Feel free to ask me about Computer Hardware, Computer Networks.
 - 📫 You can reach me by www.linkedin.com/in/marcin-stodolny.
@@ -45,6 +45,7 @@ With a strong IT background and a habit of learning new things, I aim to build s
 ## Deployment
 
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Version Control
 
@@ -65,6 +66,7 @@ With a strong IT background and a habit of learning new things, I aim to build s
 ## Development and Testing Tools
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white)
 
 # Stats
 

@@ -11,8 +11,8 @@ With a strong IT background and a habit of continuous learning, I aim to build s
 
 
 - 🔭 I’m currently looking for a job as a Full-Stack Software Developer or C#/.NET Developer.
-- 🌱 I’m currently learning C#/.NET by developing TaskHub project.
-- 👯 I’m looking to collaborate on Web Application projects / backend project that use c# or Python.
+- 🌱 I’m currently expanding my .NET skills by developing my TaskHub project.
+- 👯 I’m looking to collaborate on Web Application projects / backend project that use C# or Python.
 - 💬 Feel free to ask me about Computer Hardware, Computer Networks.
 - 📫 You can reach me by www.linkedin.com/in/marcin-stodolny.
 - ⚡ Fun fact: I am a motor vehicle technician.
